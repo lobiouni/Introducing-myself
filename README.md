@@ -1,0 +1,2 @@
+# Introducing-myself
+I work with community ecology and ecosystem functioning and have some experience with experimental ecology and trophic dynamics. Some ongoing projects deal with the effects of trait-based community assembly processes on ecosystem functioning, more specifically how zooplankton body size mediates the top-down control of algae along a productivity gradient by combining data from fieldwork and experiments.
